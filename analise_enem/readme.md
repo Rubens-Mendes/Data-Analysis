@@ -1,2 +1,4 @@
-#Análise utilizando microdados do ENEM 2019
+# Análise utilizando microdados do ENEM 2019
+## <h4>Essa análise foi possível graças a playlist de análise do canal [Programação Dinâmica](https://www.youtube.com/playlist?list=PL5TJqBvpXQv5N3iV68bGBkea0HjMk98lR) no youtube, onde me baseei nos vídeos para criar a maior parte do código e aprender mais sobre as bibliotecas *pandas* e *matplotlib* do Python. No primeiro código foram analisados os dados básicos como a idade dos inscritos, quantidade de inscritos por estado e também análise das médias de matemática e redação baseando-se em questões socioeconômicas retiradas do questionário de inscrição do enem, que foi feito por todos os candidatos.</h4>
 
+## <h4>A planilha utilizada para fazer a análise, assim como dicionário de dados e outros recursos podem ser encontrados nesse link do [Google Drive](https://drive.google.com/drive/folders/1uIUT7ImRnJXZFdxfEpCSqOacwN_oSbX_?usp=sharing), assim como no site do [INEP](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados) onde existem diversos microdados atualizados constantemente, não apenas do ENEM.
